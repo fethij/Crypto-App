@@ -1,6 +1,4 @@
 
 # Crypto-App
 
-### Database
-
 #### Screenshots
